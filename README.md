@@ -8,4 +8,4 @@
     - Programming💻 and its workspaces
     - (hopefully some english)
  
-🪧_Nicola_ 
+🪧 _Nicola_ 
