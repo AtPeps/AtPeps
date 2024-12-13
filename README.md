@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there ✊
 
-<!--
-**AtPeps/AtPeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m studying Physics 🛰 at Unibo (University of Bologna)
+- I’m currently learning:
+    - Math Analysis and Calculus
+    - General Physics
+    - Data aquisition and analysis
+    - Programming and its workspaces
+    - (hopefully some english)
+ 
+_Nicola_
