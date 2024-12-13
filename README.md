@@ -1,6 +1,6 @@
-## Hi there ✊
+## Hi there...! ✊
 
-- I’m studying Physics 🛰 at Unibo (University of Bologna🏫)(IT🇮🇹)
+- I’m studying Physics 🛰 at Unibo (University of Bologna🏫)(IT)
 - I’m currently learning:
     - Math🧮 Analysis and Calculus
     - General Physics🔭
